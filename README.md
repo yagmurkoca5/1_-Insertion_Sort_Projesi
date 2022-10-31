@@ -1,4 +1,4 @@
-# 1_-Insertion_Sort_Projesi
+# 1_Insertion_Sort_Projesi
 www.patika.dev ile Yazılıma Başlangıç Programı 
 Proje 1- 1. Insertion Sort Projesi
 
